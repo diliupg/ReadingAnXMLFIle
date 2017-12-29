@@ -1,0 +1,7 @@
+D:\C#\MY APPS\ReadingAnXMLFile\ReadingAnXMLFile\bin\Debug\ReadingAnXMLFile.exe.config
+D:\C#\MY APPS\ReadingAnXMLFile\ReadingAnXMLFile\bin\Debug\ReadingAnXMLFile.exe
+D:\C#\MY APPS\ReadingAnXMLFile\ReadingAnXMLFile\bin\Debug\ReadingAnXMLFile.pdb
+D:\C#\MY APPS\ReadingAnXMLFile\ReadingAnXMLFile\obj\Debug\ReadingAnXMLFile.csprojResolveAssemblyReference.cache
+D:\C#\MY APPS\ReadingAnXMLFile\ReadingAnXMLFile\obj\Debug\ReadingAnXMLFile.csproj.CoreCompileInputs.cache
+D:\C#\MY APPS\ReadingAnXMLFile\ReadingAnXMLFile\obj\Debug\ReadingAnXMLFile.exe
+D:\C#\MY APPS\ReadingAnXMLFile\ReadingAnXMLFile\obj\Debug\ReadingAnXMLFile.pdb
